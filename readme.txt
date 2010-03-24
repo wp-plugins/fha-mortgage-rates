@@ -4,7 +4,7 @@ Donate link: http://www.freerateupdate.com/mortgage-rate-widget
 Tags: mortgage, real estate, FHA mortgage, mortgage rates, mortgage rate widget, mortgage rates widget, FHA mortgage rates widget, real estate widget, real estate widgets
 Requires at least: 2.7
 Tested up to: 2.9.1
-Stable tag: 1.5
+Stable tag: 1.6
 
 This plugin installs a customizable  FHA Mortgage Rates Widget that you can drag into your sidebar in the widget area of wordpress.
 

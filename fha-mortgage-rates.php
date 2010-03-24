@@ -4,7 +4,7 @@ Plugin Name: FHA Mortgage Rates Widget
 Plugin URI: http://www.freerateupdate.com/mortgage-rate-widget
 Description: This plugin lets you embed a <a href="http://www.freerateupdate.com/mortgage-rate-widget"> FHA mortgage rates widget</a> onto your WordPress weblog. Free mortgage rate widget includes 30 year fixed Conforming, FHA and Jumbo mortgage rates. It's updated daily by <a href="http://www.freerateupdate.com/">FreeRateUpdate.com</a> who researches wholesale lender's rate sheets. The color is customizable to match your blog. 
 Author: Mortgage Rates
-Version: 1.2
+Version: 1.6
 Author URI: http://www.freerateupdate.com/
 */
 
@@ -82,7 +82,8 @@ jQuery(function() {
    
 });
 
-</script>           
+</script>     
+              </div>      
               <?php echo $after_widget; ?>
         <?php
 
